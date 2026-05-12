@@ -31,7 +31,7 @@ arena, watch a 60-second verifiable auto-battle play out.
 ## 🚀 Quick start (local)
 
 ```bash
-git clone https://github.com/<your-org>/onchain-warriors.git
+git clone https://github.com/Hanxueqing/onchain-warriors.git
 cd onchain-warriors
 npm install
 npm start
