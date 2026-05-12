@@ -2,6 +2,9 @@
 
 > **Scan any wallet. Get your personal samurai battle card. Fight on-chain.**
 
+[![Live demo](https://img.shields.io/badge/▶_Live_demo-onchain--warriors.onrender.com-00ff9f?style=for-the-badge&labelColor=0a0a0f)](https://onchain-warriors.onrender.com)
+[![Powered by OKX Onchain OS](https://img.shields.io/badge/Powered_by-OKX_Onchain_OS-ff00ff?style=for-the-badge&labelColor=0a0a0f)](https://web3.okx.com/)
+
 A Web3 personality scanner + auto-battler TCG, built on the OKX Onchain OS.
 Punch in any wallet address — Ethereum, Solana, Base, Arbitrum — and the agent
 analyzes its on-chain behavior, then mints you one of 8 unique samurai warrior
